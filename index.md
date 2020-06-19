@@ -8,17 +8,11 @@ In May 2002, Musk founded SpaceX, an aerospace manufacturer and space transport 
 
 In addition to his primary business pursuits, Musk has envisioned a high-speed transportation system known as the Hyperloop. Musk has said the goals of SpaceX, Tesla, and SolarCity revolve around his vision to "change the world and help humanity".[24] His goals include reducing global warming through sustainable energy production and consumption and lessening the risk of human extinction by establishing a human colony on Mars.[25][26][better source needed]
 
-## Career
+## traits
 
-Some steps in life of Elon Musk:
+some traits:
 
-* Zip2
-* X.com and PayPal
-* SpaceX
-* Tesla
-* Boring Company
-* SolarCity
-* Hyperloop
-* OpenAI
-* Neuralink
-* Tham Luang cave rescue
+* very smart
+* successfull
+* fast engineering
+* honest
