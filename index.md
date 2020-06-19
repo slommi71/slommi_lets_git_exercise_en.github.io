@@ -7,3 +7,17 @@ Born to a Canadian mother and South African father, Musk was born and raised in 
 In May 2002, Musk founded SpaceX, an aerospace manufacturer and space transport services company, of which he is CEO and lead designer. He joined Tesla Motors, Inc. (now Tesla, Inc.), an electric vehicle manufacturer, in 2004, the year after it was founded,[10] and became its CEO and product architect. In 2006, he helped create SolarCity, a solar energy services company (now a subsidiary of Tesla). In 2015, Musk co-founded OpenAI, a nonprofit research company that aims to promote friendly artificial intelligence. In July 2016, he co-founded Neuralink, a neurotechnology company focused on developing brain–computer interfaces. In December 2016, Musk founded The Boring Company, an infrastructure and tunnel construction company focused on tunnels optimized for electric vehicles.
 
 In addition to his primary business pursuits, Musk has envisioned a high-speed transportation system known as the Hyperloop. Musk has said the goals of SpaceX, Tesla, and SolarCity revolve around his vision to "change the world and help humanity".[24] His goals include reducing global warming through sustainable energy production and consumption and lessening the risk of human extinction by establishing a human colony on Mars.[25][26][better source needed] 
+
+## traits
+
+some traits:
+
+* very smart
+* successfull
+* fast engineering
+* honest
+
+As Elon Musk said:
+
+> When something is important enough, you do it even if the odds are not in your favor
+> When Henry Ford made cheap, reliable cars, people said, 'Nah, what's wrong with a horse?' That was a huge bet he made, and it worked.
