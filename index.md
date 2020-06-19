@@ -10,13 +10,15 @@ In addition to his primary business pursuits, Musk has envisioned a high-speed t
 
 ## Career
 
-- Zip2
-- X.com and PayPal
-- SpaceX
-- Tesla
-- Boring Company
-- SolarCity
-- Hyperloop
-- OpenAI
-- Neuralink
-- Tham Luang cave rescue
+Some steps in life of Elon Musk:
+
+* Zip2
+* X.com and PayPal
+* SpaceX
+* Tesla
+* Boring Company
+* SolarCity
+* Hyperloop
+* OpenAI
+* Neuralink
+* Tham Luang cave rescue
