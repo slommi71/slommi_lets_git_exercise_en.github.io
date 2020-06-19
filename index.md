@@ -16,3 +16,8 @@ some traits:
 * successfull
 * fast engineering
 * honest
+
+As Elon Musk said:
+
+> When something is important enough, you do it even if the odds are not in your favor
+> When Henry Ford made cheap, reliable cars, people said, 'Nah, what's wrong with a horse?' That was a huge bet he made, and it worked.
